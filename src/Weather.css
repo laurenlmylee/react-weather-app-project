@@ -2,6 +2,7 @@
   border: 1px solid #dadde1;
   font-family:Arial, Helvetica, sans-serif;
   color: rgb(135,135,135);
+  background: radial-gradient(circle at 10% 20%, rgb(254, 255, 165) 0%, rgb(255, 232, 182) 90%);
   padding:16px;
   border-radius:4px;
 }
@@ -35,6 +36,10 @@
   margin-right:10px;
   margin-top:5px;
   float:left;  
+}
+
+.Weather .btn{
+  background-color:#b7cdff;
 }
 
 
