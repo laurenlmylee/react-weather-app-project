@@ -10,7 +10,7 @@ export default function App() {
           <Weather defaultCity="London" />
           <p>
             {" "}
-            This project was coded by{" "}
+            Coded by{" "}
             <a
               href="https:www.instagram.com/laurenlmy"
               target="_blank"
