@@ -6,11 +6,16 @@ export default function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          
+
           <Weather defaultCity="London" />
           <p>
             {" "}
-            This project was coded by Lauren and is{" "}
+            This project was coded by{" "}
+            <a
+              href="https:www.instagram.com/laurenlmy"
+              target="_blank"
+              rel="noopener noreferrer">
+              Lauren </a> and is{" "}
             <a
               className="App-link"
               href="https://github.com/laurenlmylee/react-weather-app-project"
